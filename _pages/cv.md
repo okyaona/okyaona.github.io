@@ -11,54 +11,73 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+**Ph.D. in Information Technology**  
+*Deakin University, Victoria, Australia*  
+**July 2021 – February 2025**  
+- Research Directions: Blockchain Consensus Algorithms, Edge Data Integrity, Federated Learning, Edge Computing  
+- Thesis: *Secure and Efficient Edge Data Integrity Verification using Blockchain and Federated Learning*
+
+**Visiting Ph.D. Researcher**  
+*RWTH Aachen University, Aachen, Germany*  
+**February 2024 – August 2024**  
+- Research Directions: Integrated Sensing and Communication, Federated Learning, Resource Allocation  
+- Project: *Federated Learning Empowered by Integrated Sensing and Communication*
+
+**Master of Engineering in Computer Science and Technology**  
+*Nanjing University of Aeronautics and Astronautics (NUAA), Nanjing, China*  
+**September 2016 – March 2019**  
+- Key Courses: Advanced Service Engineering, Theoretical Computer Science, Privacy Protection Technology,  
+  Matrix Theory, Game Theory in Computer Science, Senior Software Engineering, Computer Composition, Service Computing  
+- Thesis: *QoS-aware Web Service Composition Algorithm in Trusted Service Architecture*
+
+**Bachelor of Management in Information Management and Information Systems**  
+*Shandong Normal University, Jinan, China*  
+**September 2012 – June 2016**  
+- Key Courses: C Programming, Java Programming, Data Structures, Computer Networks and Applications,  
+  Database Systems, Probability and Mathematical Statistics, Advanced Mathematics, Linear Algebra  
+- Thesis: *Research on Offensive and Defensive Technology of Network Firewall*
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+### Academic Appointments
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**Lecturer (Full-time)**  
+*Victoria University, Australia*  
+**December 2025 – Present**  
+- Research Directions: Cybersecurity, Split Learning  
+- Project: *Secure and Robust Watermarking in Split Learning*
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**Senior Research Fellow (Level B, Full-time)**  
+*RMIT University, Australia*  
+**November 2024 – November 2025**  
+- Research Directions: Cybersecurity, Split Learning  
+- Project: *Preventing Exfiltration of Sensitive Data by Malicious Insiders or Malwares*
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+**Research Assistant (Part-time)**  
+*RWTH Aachen University, Aachen, Germany*  
+**February 2024 – August 2024**  
+- Research Directions: Joint Beamforming and Scheduling  
+- Project: *Optimized Beamforming and Scheduling for OFDMA Systems*
+
+**Research Assistant (Part-time)**  
+*Deakin University, Australia*  
+**July 2023 – December 2023**  
+- Research Directions: Edge Data Integrity Verification Pre-selection, Federated Learning, Consensus Algorithms  
+- Project: *Secure and Efficient Edge Data Integrity Verification Supported by Pre-selection*
+
+---
+
+### Industry Experience
+
+**Product Manager (Full-time)**  
+*Suning.com Co., Ltd., Nanjing, China*  
+**May 2019 – December 2019**  
+- Conducted market research and defined product roadmaps for Blockchain- and AI-related products  
+- Translated user feedback and business requirements into actionable product features and system enhancements
+
+**Algorithm Engineer (Full-time)**  
+*Qilu Evening News, Jinan, China*  
+**April 2020 – June 2021**  
+- Designed and implemented a scalable blockchain system using Java to ensure reliability and performance  
+- Developed and deployed AI algorithms using Python in production environments
