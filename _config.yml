@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "personal.jpg"
   name             : "Yao Zhao"
   pronouns         : "she/her"  
   bio              : "Researcher in distributed systems, Edge AI, and cybersecurity."
