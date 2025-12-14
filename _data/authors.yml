@@ -4,7 +4,6 @@ Name Name:
   name        : "Yao Zhao"
   uri         : "https://name.com"
   email       : "name@name.com"
-  bio         : "This is the first name."
+  bio         : "Researcher in distributed systems, Edge AI, and cybersecurity."
   avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
   google_plus : "Name"
