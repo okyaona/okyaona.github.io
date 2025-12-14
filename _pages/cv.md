@@ -43,25 +43,25 @@ Work experience
 ======
 ### Academic Appointments
 
-**[A1] Lecturer (Full-time)**  
+**<span style="color:#7EA6E0;">[A1]</span> Lecturer (Full-time)**  
 *Victoria University, Australia*  
 **December 2025 – Present**  
 - Research Directions: Cybersecurity, Split Learning  
 - Project: *Secure and Robust Watermarking in Split Learning*
 
-**[A2] Senior Research Fellow (Full-time, Level B)**  
+**<span style="color:#7EA6E0;">[A2]</span> Senior Research Fellow (Full-time, Level B)**  
 *RMIT University, Australia*  
 **November 2024 – November 2025**  
 - Research Directions: Cybersecurity, Split Learning  
 - Project: *Preventing Exfiltration of Sensitive Data by Malicious Insiders or Malwares*
 
-**[A3] Research Assistant (Part-time)**  
+**<span style="color:#7EA6E0;">[A3]</span> Research Assistant (Part-time)**  
 *RWTH Aachen University, Aachen, Germany*  
 **February 2024 – August 2024**  
 - Research Directions: Joint Beamforming and Scheduling  
 - Project: *Optimized Beamforming and Scheduling for OFDMA Systems*
 
-**[A4] Research Assistant (Part-time)**  
+**<span style="color:#7EA6E0;">[A4]</span> Research Assistant (Part-time)**  
 *Deakin University, Australia*  
 **July 2023 – December 2023**  
 - Research Directions: Edge Data Integrity Verification Pre-selection, Federated Learning, Consensus Algorithms  
@@ -71,13 +71,13 @@ Work experience
 
 ### Industry Experience
 
-**[I1] Product Manager (Full-time)**  
+**<span style="color:#7EA6E0;">[I1]</span> Product Manager (Full-time)**  
 *Suning.com Co., Ltd., Nanjing, China*  
 **May 2019 – December 2019**  
 - Conducted market research and defined product roadmaps for Blockchain- and AI-related products  
 - Translated user feedback and business requirements into actionable product features and system enhancements
 
-**[I2] Algorithm Engineer (Full-time)**  
+**<span style="color:#7EA6E0;">[I2]</span> Algorithm Engineer (Full-time)**  
 *Qilu Evening News, Jinan, China*  
 **April 2020 – June 2021**  
 - Designed and implemented a scalable blockchain system using Java to ensure reliability and performance  
