@@ -11,26 +11,26 @@ redirect_from:
 
 Education
 ======
-**<span style="color:#0B3C5D;">[E1]</span> Ph.D. in Information Technology**  
+**<span style="color:#7EA6E0;">[E1]</span> Ph.D. in Information Technology**  
 *Deakin University, Victoria, Australia*  
 **July 2021 – February 2025**  
 - Research Directions: Blockchain Consensus Algorithms, Edge Data Integrity, Federated Learning, Edge Computing  
 - Thesis: *Secure and Efficient Edge Data Integrity Verification using Blockchain and Federated Learning*
 
-**<span style="color:#0B3C5D;">[E2]</span> Visiting Ph.D. Researcher**  
+**<span style="color:#7EA6E0;">[E2]</span> Visiting Ph.D. Researcher**  
 *RWTH Aachen University, Aachen, Germany*  
 **February 2024 – August 2024**  
 - Research Directions: Integrated Sensing and Communication, Federated Learning, Resource Allocation  
 - Project: *Federated Learning Empowered by Integrated Sensing and Communication*
 
-**<span style="color:#0B3C5D;">[E3]</span> Master of Engineering in Computer Science and Technology**  
+**<span style="color:#7EA6E0;">[E3]</span> Master of Engineering in Computer Science and Technology**  
 *Nanjing University of Aeronautics and Astronautics (NUAA), Nanjing, China*  
 **September 2016 – March 2019**  
 - Key Courses: Advanced Service Engineering, Theoretical Computer Science, Privacy Protection Technology,  
   Matrix Theory, Game Theory in Computer Science, Senior Software Engineering, Computer Composition, Service Computing  
 - Thesis: *QoS-aware Web Service Composition Algorithm in Trusted Service Architecture*
 
-**<span style="color:#0B3C5D;">[E4]</span> Bachelor of Management in Information Management and Information Systems**  
+**<span style="color:#7EA6E0;">[E4]</span> Bachelor of Management in Information Management and Information Systems**  
 *Shandong Normal University, Jinan, China*  
 **September 2012 – June 2016**  
 - Key Courses: C Programming, Java Programming, Data Structures, Computer Networks and Applications,  
