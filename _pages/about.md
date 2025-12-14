@@ -7,10 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-{% comment %}
-# Introduction
-======
-{% endcomment %}
 
 Hi, I’m **Yao Zhao** — a researcher working on **distributed systems, Edge AI, and cybersecurity**, with a focus on building **secure and trustworthy intelligent systems** for real-world applications.
 
