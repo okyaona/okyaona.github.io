@@ -49,7 +49,7 @@ Work experience
 - Research Directions: Cybersecurity, Split Learning  
 - Project: *Secure and Robust Watermarking in Split Learning*
 
-**[A2] Senior Research Fellow (Level B, Full-time)**  
+**[A2] Senior Research Fellow (Full-time, Level B)**  
 *RMIT University, Australia*  
 **November 2024 – November 2025**  
 - Research Directions: Cybersecurity, Split Learning  
