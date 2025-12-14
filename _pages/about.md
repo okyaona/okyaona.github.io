@@ -1,9 +1,15 @@
+
 ---
-title: About
+layout: archive
+title: "About"
 permalink: /about/
-layout: single
 author_profile: true
 ---
+
+{% include base_path %}
+
+Introduction
+======
 
 Hi, I’m **Yao Zhao** — a researcher working on **distributed systems, Edge AI, and cybersecurity**, with a focus on building **secure and trustworthy intelligent systems** for real-world applications.
 
